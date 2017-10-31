@@ -28,3 +28,15 @@
 	- Tree-to-Sequence Attentional Neural Machine Translation [[ACL16](http://www.aclweb.org/anthology/P16-1078)]
 	- Modeling Coverage for Neural Machine Translation [[ACL16](http://www.aclweb.org/anthology/P16-1008)]
 	- Learning to Parse and Translate Improves Neural Machine Translation [[ACL17](http://arxiv.org/abs/1702.03525)]
+
+- Deep Meaning Beyond Thought Vectors [[Machine Thoughts](https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors/)]
+	- Cross-Sentence N-ary Relation Extraction with Graph LSTMs [[TACL17](https://www.cs.jhu.edu/~npeng/papers/TACL_17_RelationExtraction.pdf)]
+	- * Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks [[Arxiv](https://arxiv.org/pdf/1503.00075.pdf)]
+	- Linguistic Knowledge as Memory for Recurrent Neural Networks [[Arxiv](https://arxiv.org/pdf/1703.02620.pdf)]
+	- A Structured Self-attentive Sentence Embedding [[ICLR17](https://arxiv.org/pdf/1703.03130.pdf)]
+	- Attention Is All You Need [[Arxiv](https://arxiv.org/pdf/1706.03762.pdf)]
+	- Dynamic Entity Representations in Neural Language Models [[EMNLP17](https://arxiv.org/pdf/1708.00781.pdf)]
+	- Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision [[ACL17](https://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1003.pdf)]
+	- The State of the Art in Semantic Representation [[ACL17](http://www.aclweb.org/anthology/P/P17/P17-1008.pdf)]
+	- node2vec: Scalable Feature Learning for Networks [[KDD16](https://arxiv.org/pdf/1607.00653.pdf)]
+
